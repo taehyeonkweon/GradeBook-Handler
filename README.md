@@ -1,5 +1,5 @@
 # gradeBook
-It is an object-oriented console application that can handle students’ grade books. It is for providing the environment to build a database of the students’ names, emails, ID numbers, and marks; and displaying and handling the database content.
+It is an object-oriented console application that can handle students’ grade books. It builds a database of the students’ names, emails, ID numbers, and marks; and displays and handles the database content.
 
 
 
