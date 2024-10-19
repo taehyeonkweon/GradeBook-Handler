@@ -1,4 +1,4 @@
-# GradeBook
+# GradeBook Handler
 This is a course project for PolyU ENG2002.
 
 It is an object-oriented console application designed to manage student grade books with an integrated login system. It allows users to build and maintain a database of students' names, emails, ID numbers, and marks, providing the functionality to display and update this data.
